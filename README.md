@@ -1,2 +1,0 @@
-# RestAPI
-RestAPI - (GET, PUT, POST, DELETE, UPDATE, PATCH)
